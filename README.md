@@ -1,11 +1,11 @@
-# HMFAYSAL OMEGA THEME
+# SPORTDOTNETUG WEBSITE
 
-Project name:	HMFAYSAL OMEGA THEME  
-Author:	Hossain Mohd Faysal  
-Project type:	The Coolest Theme for Jekyll 
+Project name:	SHREVEPORT'S DOT NET USER GROUP'S WEBSITE
+Author:	Esteban Fiallos
+Project type:	Website
 License:	MIT License 
   
-HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for engineers as well as writers who want their content to take front and center. This theme elegantly wraps each page and post with featured images complementing the content. It was built -- by Engineer slash Mathematician [Hossain Mohd Faysal](http://alum.mit.edu/www/hmfaysal/).
+This website uses the HMFAYSAL OMEGA theme and Jekyll. I'm leaving most of the README content from the theme for your enlightenment. If you would like to use Jekyll with windows I highly recommend you to check http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html 
 
 The theme features:
 
